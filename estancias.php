@@ -29,7 +29,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#!">Logout</a></li>
+                        <li><a class="dropdown-item" href="login.html">Cerrar sesión</a></li>
                     </ul>
                 </li>
             </ul>
@@ -63,10 +63,6 @@
                             <a class="nav-link" href="Evaluacion.html">
                                 <div class="sb-nav-link-icon"><i class="fas fa-check"></i></i></div>
                                 Evaluación Docente
-                            </a>
-                            <a class="nav-link" href="index.html">
-                                <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></i></div>
-                                Manual
                             </a>
                             
                             
@@ -103,13 +99,10 @@
             <div id="layoutSidenav_content">
                 <main>
                     <div class="container-fluid px-4">
-                        <h1 class="mt-4">Evaluación</h1>
-                        <div align="center"class="alert alert-primary" role="alert">
-                            Gracias por contestar las preguntas.
+                        <h1 class="mt-4">Estancia/Estadía</h1>
+                        <div align="center"class="alert alert-danger" role="alert">
+                            Actualmente no existe un periodo de Estancias.
                         </div>
-                    </div>
-                    <div align="center">
-                        <button type="button" class="btn btn-secondary btn-lg" align="center"><a href="Evaluacion.html" style="text-decoration: none; color: white;">Regresar</a></button>
                     </div>
                 </main>
                 <footer class="py-4 bg-light mt-auto">
