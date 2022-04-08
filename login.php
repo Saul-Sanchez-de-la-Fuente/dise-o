@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="css/styleLogin.css">
 	<title>Login - Siiupv</title>
 </head>
-<body style="background-image: css/images/fondoupv.png;">
+<body style="background-image: './css/images/fondoupv.png'">
 	<div class="container">
 	    <div class="frame">
 	        <div class="nav">

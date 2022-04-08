@@ -40,27 +40,27 @@
                     <div class="sb-sidenav-menu">
                         <div class="nav">
                             <div class="sb-sidenav-menu-heading">Apartados</div>
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="index.php">
                                 <div class="sb-nav-link-icon"><i class="far fa-id-card"></i></i></div>
                                 Calificaciones
                             </a>
-                            <a class="nav-link" href="HistorialAcademico.html">
+                            <a class="nav-link" href="HistorialAcademico.php">
                                 <div class="sb-nav-link-icon"><i class="far fa-calendar-alt"></i></i></div>
                                 Historial Academico
                             </a>
-                            <a class="nav-link" href="horario.html">
+                            <a class="nav-link" href="horario.php">
                                 <div class="sb-nav-link-icon"><i class="far fa-clock"></i></i></div>
                                 Horario
                             </a>
-                            <a class="nav-link" href="transporte.html">
+                            <a class="nav-link" href="transporte.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-bus"></i></i></div>
                                 Transporte
                             </a>
-                            <a class="nav-link" href="estancias.html">
+                            <a class="nav-link" href="estancias.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-users"></i></i></div>
                                 Estancia/Estadía
                             </a>
-                            <a class="nav-link" href="Evaluacion.html">
+                            <a class="nav-link" href="Evaluacion.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-check"></i></i></div>
                                 Evaluación Docente
                             </a>

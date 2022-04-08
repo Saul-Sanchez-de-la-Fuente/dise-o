@@ -40,31 +40,30 @@
                     <div class="sb-sidenav-menu">
                         <div class="nav">
                             <div class="sb-sidenav-menu-heading">Apartados</div>
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="index.php">
                                 <div class="sb-nav-link-icon"><i class="far fa-id-card"></i></i></div>
                                 Calificaciones
                             </a>
-                            <a class="nav-link" href="HistorialAcademico.html">
+                            <a class="nav-link" href="HistorialAcademico.php">
                                 <div class="sb-nav-link-icon"><i class="far fa-calendar-alt"></i></i></div>
                                 Historial Academico
                             </a>
-                            <a class="nav-link" href="horario.html">
+                            <a class="nav-link" href="horario.php">
                                 <div class="sb-nav-link-icon"><i class="far fa-clock"></i></i></div>
                                 Horario
                             </a>
-                            <a class="nav-link" href="transporte.html">
+                            <a class="nav-link" href="transporte.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-bus"></i></i></div>
                                 Transporte
                             </a>
-                            <a class="nav-link" href="estancias.html">
+                            <a class="nav-link" href="estancias.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-users"></i></i></div>
                                 Estancia/Estadía
                             </a>
-                            <a class="nav-link" href="Evaluacion.html">
+                            <a class="nav-link" href="Evaluacion.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-check"></i></i></div>
                                 Evaluación Docente
                             </a>
-                            
                             
                             <div class="collapse" id="collapsePages" aria-labelledby="headingTwo" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav accordion" id="sidenavAccordionPages">
@@ -74,9 +73,9 @@
                                     </a>
                                     <div class="collapse" id="pagesCollapseAuth" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
                                         <nav class="sb-sidenav-menu-nested nav">
-                                            <a class="nav-link" href="login.html">Login</a>
-                                            <a class="nav-link" href="register.html">Register</a>
-                                            <a class="nav-link" href="password.html">Forgot Password</a>
+                                            <a class="nav-link" href="login.php">Login</a>
+                                            <a class="nav-link" href="register.php">Register</a>
+                                            <a class="nav-link" href="password.php">Forgot Password</a>
                                         </nav>
                                     </div>
                                     <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseError" aria-expanded="false" aria-controls="pagesCollapseError">
