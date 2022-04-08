@@ -14,7 +14,7 @@
     <body class="sb-nav-fixed">
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
             <!-- Navbar Brand-->
-            <a class="navbar-brand ps-3" href="index.html">ITI-2018</a>
+            <a class="navbar-brand ps-3" > <img src="css/images/logo-upv.png" style="width: 100px;" alt="logo-upv"> ITI-2018</a>
             <!-- Sidebar Toggle-->
             
             <!-- Navbar Search-->
