@@ -16,7 +16,7 @@
 	            </li>
 	        </div>
 	        <div ng-app ng-init="checked = false">
-	            <form class="form-signin" action="" method="post" name="form"> <label for="username">Usuario</label> <input class="form-styling" type="text" name="username" placeholder="" /> <label for="password">Contraseña</label> <input class="form-styling" type="text" name="password" placeholder="" />
+	            <form class="form-signin" action="" method="post" name="form"> <label for="username">Usuario</label> <input class="form-styling" type="text" name="username" placeholder="" /> <label for="password">Contraseña</label> <input class="form-styling" type="password" name="password" placeholder="" />
 	                <div class="btn-animate"> <a class="btn-signin">Iniciar Sesión</a> </div>
 	            </form>
 	            <form class="form-signup" action="" method="post" name="form"> <label for="fullname">Full name</label> <input class="form-styling" type="text" name="fullname" placeholder="" /> <label for="email">Email</label> <input class="form-styling" type="text" name="email" placeholder="" /> <label for="password">Password</label> <input class="form-styling" type="text" name="password" placeholder="" /> <label for="confirmpassword">Confirm password</label> <input class="form-styling" type="text" name="confirmpassword" placeholder="" /></form>
