@@ -152,8 +152,8 @@
             <hr>
             <div class="form-group" align="center" style="margin: 2px;">
                 <div>
-                  <a class="col btn btn-primary" href="profes_evaluacion.html" role="button">PROFESORES</a>
-                  <a class="col btn btn-primary" href="tutor_evaluación.html" role="button">TUTORES</a>
+                  <a class="col btn btn-primary" href="profes_evaluacion.php" role="button">PROFESORES</a>
+                  <a class="col btn btn-primary" href="tutor_evaluación.php" role="button">TUTORES</a>
                 </div>
             </div>
             <br><br>

@@ -105,7 +105,7 @@
                         </div>
                     </div>
                     <div align="center">
-                        <button type="button" class="btn btn-secondary btn-lg" align="center"><a href="Evaluacion.html" style="text-decoration: none; color: white;">Regresar</a></button>
+                        <button type="button" class="btn btn-secondary btn-lg" align="center"><a href="Evaluacion.php" style="text-decoration: none; color: white;">Regresar</a></button>
                     </div>
                 </main>
                 <footer class="py-4 bg-light mt-auto">

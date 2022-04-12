@@ -470,7 +470,7 @@
                                     </tbody>
                                 </table>
                                 <div align="right">
-                                    <button type="button" class="btn btn-secondary btn-lg" align="center"><a href="respuestas.html" style="text-decoration: none; color: white;">Enviar</a></button>
+                                    <button type="button" class="btn btn-secondary btn-lg" align="center"><a href="respuestas.php" style="text-decoration: none; color: white;">Enviar</a></button>
                                 </div>
                             </div>
                             
