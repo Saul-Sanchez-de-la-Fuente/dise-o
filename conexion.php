@@ -19,7 +19,7 @@ if (!$conexion) {
 function valida_usuario_bd($usuario, $contrasena, $conexion)
 {
     $query = "SELECT * FROM usuario WHERE usuario = '$usuario' AND pass = '$contrasena'";
-    echo $query;
+    //echo $query;
     $resultado = mysqli_query($conexion, $query) or die('Consulta fallida');
     $fila = $resultado->fetch_assoc();
     /*if($fila["rol"] === "administrador")
