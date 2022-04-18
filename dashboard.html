@@ -121,11 +121,11 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
+                                            <td>96</td>
+                                            <td>90</td>
+                                            <td>100</td>
+                                            <td>96</td>
+                                            <td>96</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -150,11 +150,11 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
+                                            <td>84</td>
+                                            <td>88</td>
+                                            <td>81</td>
+                                            <td>70</td>
+                                            <td>80</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -178,10 +178,10 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
+                                            <td>79</td>
+                                            <td>92</td>
+                                            <td>70</td>
+                                            <td>80</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -205,10 +205,10 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
+                                            <td>90</td>
+                                            <td>90</td>
+                                            <td>90</td>
+                                            <td>90</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -232,10 +232,10 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
+                                            <td>80</td>
+                                            <td>88</td>
+                                            <td>70</td>
+                                            <td>79</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -259,10 +259,10 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
+                                            <td>72</td>
+                                            <td>70</td>
+                                            <td>70</td>
+                                            <td>70</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -287,11 +287,11 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
-                                            <td>0</td>
+                                            <td>85</td>
+                                            <td>90</td>
+                                            <td>70</td>
+                                            <td>70</td>
+                                            <td>78</td>
                                         </tr>
                                     </tbody>
                                 </table>
