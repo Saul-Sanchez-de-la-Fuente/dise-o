@@ -1,0 +1,27 @@
+INSERT INTO progra_web
+    (unidad1, unidad2, unidad3, unidad4, promedio)
+    VALUES ('96','90','100','96','96')
+
+INSERT INTO ingles
+    (unidad1, unidad2, unidad3, unidad4, promedio)
+    VALUES ('84','88','81','70','80')
+
+INSERT INTO admin_proyect
+    (unidad1, unidad2, unidad3, promedio)
+    VALUES ('79','92','70','80')
+
+INSERT INTO tec_apli
+    (unidad1, unidad2, unidad3, promedio)
+    VALUES ('90','90','90','90')
+
+INSERT INTO dise_interf
+    (unidad1, unidad2, unidad3, promedio)
+    VALUES ('80','88','70','79')
+
+INSERT INTO sist_int
+    (unidad1, unidad2, unidad3, promedio)
+    VALUES ('72','70','70','70')
+
+INSERT INTO gest_des
+    (unidad1, unidad2, unidad3, unidad4, promedio)
+    VALUES ('85','90','70','70','78')
